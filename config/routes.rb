@@ -7,5 +7,5 @@ Rails.application.routes.draw do
   # see http://guides.rubyonrails.org/routing.html
   # root 'application#hello'
   # root 'users#index'
-  root 'static_pages#home'
+  # root 'static_pages#home'
 end

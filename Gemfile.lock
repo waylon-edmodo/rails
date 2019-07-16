@@ -236,7 +236,6 @@ DEPENDENCIES
   guard-minitest (= 2.4.4)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
-  minitest
   minitest-reporters (= 1.1.14)
   puma (~> 3.11)
   rails (~> 5.2.3)
